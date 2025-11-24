@@ -25,4 +25,4 @@ export default function TaskList({tasks, updateTask, deleteTask}) {
         ))}
     </ul>
   )
-}  
+}
